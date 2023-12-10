@@ -37,7 +37,7 @@ The majority of the data is sourced from [Federal Reserve Economic Data (FRED)](
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/HomeInsight.git
+   git clone https://github.com/AnisH521/HomeInsight.git
    ```
 
 ## Contribution
